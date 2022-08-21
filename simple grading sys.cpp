@@ -8,7 +8,7 @@ int main()
 int sub1, sub2, sub3, sub4, sub5, total=0;
 
 float percent;
- cout<<"Enter 5 Subject  marks :\n ";
+ cout<<"Enter 5 Subject's  marks :\n ";
 
     //input from the user
  cin>>sub1>>sub2>>sub3>>sub4>>sub5;
