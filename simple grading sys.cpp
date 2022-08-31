@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    //declaring variables
+    //declaring subjects
 int sub1, sub2, sub3, sub4, sub5, total=0;
 
 float percent;
